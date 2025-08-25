@@ -74,6 +74,8 @@ This project has been implemented as a **controller design**.
 ---
 
 
+## 🎥 Project Demo
+[![Watch Video](https://img.shields.io/badge/Watch%20Video-Google%20Drive-blue?logo=google-drive)](https://drive.google.com/file/d/1nj6X0K-d1VvdGYScLw28sSmS408MGE3y/view?usp=sharing)
 
 
 <!-- ## 📂 Repository Contents
