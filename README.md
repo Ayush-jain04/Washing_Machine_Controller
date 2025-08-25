@@ -73,10 +73,17 @@ This project has been implemented as a **controller design**.
 
 ---
 
+
+
+
 <!-- ## 📂 Repository Contents
 - `src/` → Source code for controller  
 - `testbench/` → Testbench files (if applicable)  
-- `docs/` → Documentation, diagrams, and design explanation  
+- `docs/` → Documentation, 
+
+Uploading Washing_machine_final_video.mp4…
+
+diagrams, and design explanation  
 - `results/` → Simulation results / screenshots  
 
 ---
